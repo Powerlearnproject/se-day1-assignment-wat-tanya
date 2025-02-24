@@ -52,7 +52,7 @@ Acceptance testing- Having a user try the system and examine their satisfaction 
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+Prompt engineering  is the process where you guide generative AI solutions to generate desired outputs. It is important because iit is giving indtructions to the AI on what to do and is the bridge of human intelligence and artificial inteligence. The better the prompt, the better the response.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 What is maths? What is multiplication in maths?
